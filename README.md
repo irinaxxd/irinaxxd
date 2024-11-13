@@ -1,5 +1,5 @@
 ## Irina Tepliuk
-![Header](https://github.com/Zhenislav/Zhenislav/assets/86875785/1e2cc84a-e35b-420c-92bc-3ffd9bef8e27)!
+![Header]()!
 
 ## About me
 > 
@@ -78,6 +78,6 @@
 
 
 ## Follow Me
-[ ![Telegram](https://img.shields.io/badge/-Telegram-30A5D8?style=for-the-badge&logo=Telegram&logoColor=F6F9FA) ](https://t.me/zhenislav)
+[ ![Telegram](https://img.shields.io/badge/-Telegram-30A5D8?style=for-the-badge&logo=Telegram&logoColor=F6F9FA) ](https://t.me/Iryna3107)
 [ ![Instagam](https://img.shields.io/badge/-Instagram-A601CD?style=for-the-badge&logo=Instagram&logoColor=D6A639) ]()
 [ ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF) ]()
