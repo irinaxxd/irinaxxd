@@ -4,27 +4,23 @@
 ## About me
 > 
 
-### Experience
-#### [Название компании] - [Даты работы]
-- 
-- 
-
 ## My Portfolio 
 
 ### Bug-reports 
 
 ##### PC games:
-- [BattleOfTheWildWest]()
-- [Age Of Mystery]()
-- [Chop chop]()
+- [Electric Trains](https://trello.com/b/5d7v3pdF/electric-trains)
+- [Ultra Kill](https://trello.com/b/8Qy2FYtd/ultrakill)
+- [Operation Zombie](https://trello.com/b/iwhq7r49/operation-zombie)
 
 #### Mobile games: 
-- [Little Shooter]()
-- [World Race]()
-- [War Number]()
+- [World Race](https://trello.com/b/qBmiWOr4/word-race)
+- [War Number](https://trello.com/b/xLWIWkVC/war-number)
 
 #### Web-sites:
-- [Makes Scents]()
+- [Talinn](https://trello.com/b/X3t1nVXv/%D1%81%D0%B0%D0%B9%D1%82-tallinncold-time)
+- [Сайт з кормами](https://trello.com/b/R0ZhEV6m/%D1%81%D0%B0%D0%B9%D1%82-%D0%B7-%D0%BA%D0%BE%D1%80%D0%BC%D0%B0%D0%BC%D0%B8)
+- [Сайт зміни зачісок](https://trello.com/b/LCu08976/%D1%81%D0%B0%D0%B9%D1%82-%D0%B7%D0%BC%D1%96%D0%BD%D0%B8-%D0%B7%D1%8F%D1%87%D1%96%D1%81%D0%BE%D0%BA)
 
 ### Check-lists
 #### PC Games:
