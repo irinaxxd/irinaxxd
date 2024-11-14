@@ -29,11 +29,14 @@
 - [Beast Traversing]()
 
 #### Mobile games:
-- []()
-- []()
+- [Farming Fever](https://docs.google.com/spreadsheets/d/1LX1xFnakmc0M2TUaTiae5ZDwt9gZPjLxRnSoY-21LE0/edit?usp=sharing)
+- [Angry birds](https://docs.google.com/spreadsheets/d/1pn0dH6smecJwwzPkIJCwSsdrELW-oZyj9z1s3jbUyq0/edit?usp=sharing)
+- [Little Shooter](https://docs.google.com/spreadsheets/d/1GRdTTG7ZQXY8KginzJcEHoa4g3_5LCKnFz_Z0sVjjRI/edit?usp=sharing)
+- [Gallery](https://docs.google.com/spreadsheets/d/1h9x8SdYPWpmAtFiI8xvstVRuH9tRh-3-MWRTI2B-PcY/edit?usp=sharing)
 
 #### Web-sites:
-
+- [Podbor prichesok](https://docs.google.com/spreadsheets/d/1w-D0Atyw4gfKNzt522SVUziZRmH9G4mHrtBxRdjpCgw/edit?usp=sharing)
+- [9Courses](https://docs.google.com/spreadsheets/d/1ivFgWr51968fBsnPEv9k4UN1yKC9LjB2ZU5twwI1awg/edit?usp=sharing)
   
 ### Test cases 
 #### PC Games:
@@ -46,6 +49,7 @@
 
 #### Web-sites:
 
+- 
 
 
 
