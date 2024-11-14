@@ -1,5 +1,6 @@
 ## Irina Tepliuk
-![Header]()!
+![Header](![Irina Tepliuk](https://github.com/user-attachments/assets/a8c2b995-df56-4ea4-bc68-d8c69d0e3a85)
+)!
 
 ## About me
 > 
