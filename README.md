@@ -39,25 +39,13 @@
 - [9Courses](https://docs.google.com/spreadsheets/d/1ivFgWr51968fBsnPEv9k4UN1yKC9LjB2ZU5twwI1awg/edit?usp=sharing)
   
 ### Test cases 
-#### PC Games:
-- [War Thunder]()
-- [Beast Traversing]()
 
-#### Mobile games:
-- []()
-- []()
 
 #### Web-sites:
 
-- 
-
-
-
-
-#### Applications:
-- [BattleOfTheWildWest]()
-- [Age Of Mystery]()
-
+- [Royal House](https://docs.google.com/spreadsheets/d/1_hQSquxngz16539pvF75Yz5zEqc2oqn9K9ldNnzddtg/edit?usp=sharing)
+- [EcDevStudio](https://docs.google.com/spreadsheets/d/1Zn7e-8bjmdiFiLCLeRaNKFdoNjZLqawNO4UvjdSQbLk/edit?usp=sharing)
+- [Facebook Auth](https://docs.google.com/spreadsheets/d/1QPNDiLSNsQUMABW36HrElnOK0M0aOPJs3ibT6H_2fG4/edit?usp=sharing)
 
 ## Languages and Tools
 ![WebTesting](https://img.shields.io/badge/-WebTesting-556AC1?style=for-the-badge&logo=WebTesting&logoColor=556AC1)
